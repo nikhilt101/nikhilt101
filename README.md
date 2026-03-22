@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Nikhil 👋
 
-<!--
-**nikhilt101/nikhilt101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 India | 🤖 Builder | 🚀 AI, SaaS & System Design
 
-Here are some ideas to get you started:
+TypeScript • JavaScript • PHP • Next.js • React • APIs • Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building real-world software systems and scalable products.  
+Focused on execution, speed, and learning through building.
+
+---
+
+## 🚀 Current Work
+
+🚚 Shiplee — logistics & shipping platform  
+📦 ShipAPI — courier integrations (rates, AWB, tracking)  
+📊 Ops Dashboard — NDR, RTO & shipment monitoring  
+📬 Notification System — WhatsApp, email, webhooks  
+🧠 AI Tools — automation & internal workflows  
+
+---
+
+## ⚡ Focus
+
+- Backend systems & APIs  
+- SaaS architecture  
+- Automation workflows  
+- AI-assisted development  
+
+---
+
+## 📈 Now
+
+- Building scalable products  
+- Improving system design skills  
+- Exploring AI in real-world use cases  
+
+---
+
+## 🌐 Connect
+
+- GitHub: https://github.com/nikhilt101
+- LinkedIn: (add later)
+
+---
+
+## Philosophy
+
+> Build → Ship → Improve → Repeat
