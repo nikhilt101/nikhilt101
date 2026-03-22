@@ -1,5 +1,9 @@
 # Hi, I'm Nikhil 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
 📍 India | 🤖 Builder | 🚀 AI, SaaS & System Design  
 
 TypeScript • JavaScript • PHP • Next.js • React • APIs • Automation  
@@ -9,9 +13,9 @@ Focused on execution, speed, and learning through building.
 
 ---
 
-## 🚀 Current Work
+## 🚀 Current Projects
 
-🚚 Shiplee — logistics & shipping platform for eCommerce  
+🚚 Shiplee — logistics & shipping platform  
 📦 ShipAPI — courier integrations (rates, AWB, tracking)  
 📊 Ops Dashboard — NDR, RTO & shipment monitoring  
 📬 Notification System — WhatsApp, email, webhooks  
@@ -19,48 +23,56 @@ Focused on execution, speed, and learning through building.
 
 ---
 
-## ⚡ What I'm Building
+## ⚡ Active Systems
 
-- Multi-tenant SaaS platforms  
-- Logistics & fulfillment systems  
-- API-first backend architectures  
-- Automation workflows (cron, triggers, notifications)  
-- AI-assisted product development  
+🧠 AutoFlow — automation engine for workflows & triggers  
+📦 WalletCore — billing, COD reconciliation & transactions  
+📊 SellerOS — multi-tenant dashboard for sellers  
+📡 TrackFlow — real-time shipment tracking system  
+🔗 API Layer — courier aggregation & routing logic  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,php,postgres,docker,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilt101&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilt101&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🧠 Background
 
-- Started coding in school and built early web products  
-- Launched and experimented with D2C brands  
-- Built and exited a small eCommerce-related platform early  
-- Now focused on building AI-driven logistics systems  
-
----
-
-## 📊 Focus Areas
-
-- Backend systems & APIs  
-- SaaS architecture  
-- System scalability  
-- Automation & workflows  
-- AI + software integration  
+- Started coding early and built web products in school  
+- Ran D2C experiments and learned real business operations  
+- Built and exited an early eCommerce-related platform  
+- Now building AI-driven logistics and SaaS systems  
 
 ---
 
 ## 📈 What I'm Doing
 
-- Building scalable products for real-world use cases  
-- Designing systems that handle operations, not just code  
-- Rapid prototyping and shipping features fast  
+- Building scalable backend systems  
+- Designing systems for real-world operations  
+- Rapid prototyping and shipping fast  
 - Learning system design through execution  
 
 ---
 
 ## 🏆 Vision
 
-Building systems and products that scale globally —  
-combining software, AI, and real-world operations.
+Building global-scale products combining:
+software + AI + real-world infrastructure
 
 ---
 
@@ -71,15 +83,23 @@ combining software, AI, and real-world operations.
 
 ---
 
-## Philosophy
+## 💡 Philosophy
 
 > Build → Ship → Improve → Repeat  
 
 ---
 
-## Random Notes
+## 😄 Dev Mood
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 🧩 Random Notes
 
 - I build products, not just projects  
 - Prefer execution over theory  
-- Interested in real-world systems (not just code)  
-- Long-term focus: global-scale software products  
+- Interested in real-world systems  
+- Long-term: global-scale software systems  
